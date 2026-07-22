@@ -96,6 +96,3 @@ Then open the local Streamlit URL shown in the terminal, upload a document, choo
 - If MCQs are not generated, make sure the uploaded document has enough readable text.
 - If a PDF is encrypted or image-only, extraction may fail.
 
-## License
-
-No license file is included in this repository.
